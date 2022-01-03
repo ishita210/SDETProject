@@ -17,4 +17,4 @@ change 4 :- WI4 test stash -half done work.
 
 change 5 : for normal push
 
-changes added by team mate for pull operation
+changes added by team mate for pull operation.
